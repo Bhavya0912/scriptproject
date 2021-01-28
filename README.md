@@ -115,6 +115,6 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-Thus a website is designed for the Mathematical Calculations using JavaScript and is hosted in the URL http://bhavya.student.saveetha.in:8000/mathvolume. HTML code is validated.
+Thus a website is designed for the calculation of volume of cylinder using JavaScript and is hosted in the URL http://bhavya.student.saveetha.in:8000/mathvolume/. HTML code is validated.
 
-Thus a website is designed for the Mathematical Calculations using JavaScript and is hosted in the URL http://bhavya.student.saveetha.in:8000/matharea. HTML code is validated.
+Thus a website is designed for the calculation of area of circle using JavaScript and is hosted in the URL http://bhavya.student.saveetha.in:8000/matharea/. HTML code is validated.
