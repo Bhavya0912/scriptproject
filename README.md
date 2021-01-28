@@ -64,26 +64,7 @@ Publish the website in the given URL.
 </html>
 
 ```
-### mathscript.js
-```
-volumeBtn = document.querySelector('#button_volume');
 
-volumeBtn.addEventListener('click',function(e){
-    alert('VOLUME button clicked');
-
-    txtRADIUS = document.querySelector('#value_radius');
-    txtHEIGHT = document.querySelector('#value_height');
-    txtRESULT = document.querySelector('#value_result');
-
-    let result;
-
-    result = 3.14156*parseFloat(txtRADIUS.value)*parseFloat(txtRADIUS.value)*parseFloat(txtHEIGHT.value);
-
-    txtRESULT.value = result;
-    
-});
-
-```
 ### matharea.html
 ```
 {% load static %}
@@ -123,23 +104,7 @@ volumeBtn.addEventListener('click',function(e){
 
 </html>
 ```
-### mathscript1.js
-```
-areaBtn = document.querySelector('#button_area');
 
-areaBtn.addEventListener('click',function(e){
-    alert('AREA button clicked');
-
-    txtRADIUS = document.querySelector('#value_radius');
-    txtRESULT = document.querySelector('#value_result');
-
-    let result;
-
-    result = 3.14156*parseFloat(txtRADIUS.value)*parseFloat(txtRADIUS.value);
-
-    txtRESULT.value = result;
-});
-```
 ## OUTPUT:
 ![output](./static/img/OUTPUT1.jpg)
 ![output](./static/img/OUTPUT2.jpg)
